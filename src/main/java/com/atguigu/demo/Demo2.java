@@ -9,5 +9,6 @@ public class Demo2 {
         System.out.println("gehjfdsjfdhfd");
         System.out.println("随叫随到");
         System.out.println("发动机返回键");
+        System.out.println("master  ");
     }
 }
