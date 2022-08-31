@@ -12,5 +12,6 @@ public class Demo2 {
         System.out.println("dev-A ");
         System.out.println("master  ");
         System.out.println("push ");
+        System.out.println("ssh ");
     }
 }
