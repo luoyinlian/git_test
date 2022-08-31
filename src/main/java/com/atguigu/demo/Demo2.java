@@ -11,5 +11,6 @@ public class Demo2 {
         System.out.println("发动机返回键");
         System.out.println("dev-A ");
         System.out.println("master  ");
+        System.out.println("push ");
     }
 }
